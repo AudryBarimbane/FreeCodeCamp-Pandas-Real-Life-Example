@@ -1,2 +1,2 @@
-# FreeCodeCamp-Pandas-Real-Life6exampe
+# FreeCodeCamp-Pandas-Real-Life-Example
 Data Science with python
